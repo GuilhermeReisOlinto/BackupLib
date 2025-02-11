@@ -1,0 +1,17 @@
+{
+    "name": "guilherme.olinto/file-backup-lib",
+    "autoload": {
+        "psr-4": {
+            "FileBackupLib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "guilherme olinto",
+            "email": "ctl_golinto@uolinc.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^12.0"
+    }
+}
